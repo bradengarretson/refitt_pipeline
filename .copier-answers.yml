@@ -1,0 +1,10 @@
+# Changes here will be overwritten by Copier
+_commit: v2.0.1
+_src_path: gh:lincc-frameworks/python-project-template
+author_email: bgarrets@purdue.edu
+author_name: Braden Garretson
+custom_install: false
+package_name: refitt_pipeline
+project_license: MIT
+project_name: refitt_pipeline
+project_organization: bradengarretson

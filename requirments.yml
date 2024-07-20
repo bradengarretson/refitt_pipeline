@@ -1,0 +1,34 @@
+name: my_environment
+channels:
+  - conda-forge
+  - defaults
+  - pytorch
+dependencies:
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pytorch
+  - xarray
+  - dask
+  - netCDF4
+  - bottleneck
+  - astropy
+  - sep
+  - extinction
+  - matplotlib
+  - numpy
+  - scipy
+  - scikit-learn
+  - tqdm
+  - lsdb
+  - sncosmo
+  - pip
+  - pip:
+      - tensorflow
+      - astro-parsnip
+      - lcdata
+      - lightgbm
+      - lf-tape
+      - antares-client
+      - alerce
+
